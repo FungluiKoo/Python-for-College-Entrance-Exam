@@ -1,0 +1,5 @@
+f=open('琵琶行.txt','a+')
+f.write('12345')
+f.seek(0)
+f.write('67890')
+f.close()
