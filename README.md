@@ -1,6 +1,8 @@
 # Python-for-College-Entrance-Exam
 > 五年高考三年模拟·浙江·技术
 
+[![HitCount](http://hits.dwyl.io/FungluiKoo/Python-for-College-Entrance-Exam.svg)](http://hits.dwyl.io/FungluiKoo/Python-for-College-Entrance-Exam)
+
 If you have any question, please navigate to our [Wiki page](https://github.com/FungluiKoo/Python-for-College-Entrance-Exam/wiki).
 
 Copyright©2017-2019 Funglui Koo. All rights reserved.
