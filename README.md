@@ -1,6 +1,7 @@
 # Python-for-College-Entrance-Exam
 > 五年高考三年模拟·浙江·技术
 
+[![Fenglei](https://img.shields.io/badge/Copyright-Fenglei%20Gu-blue.svg)](https://i6.cims.nyu.edu/~fg1121/index.htm)
 [![HitCount](http://hits.dwyl.io/FungluiKoo/Python-for-College-Entrance-Exam.svg)](http://hits.dwyl.io/FungluiKoo/Python-for-College-Entrance-Exam)
 
 If you have any question, please navigate to our [Wiki page](https://github.com/FungluiKoo/Python-for-College-Entrance-Exam/wiki).
