@@ -1,13 +1,10 @@
 # Python-for-College-Entrance-Exam
 > 五年高考三年模拟·浙江·技术
 
-[![Fenglei](https://img.shields.io/badge/Copyright-Fenglei%20Gu-blue.svg)](https://i6.cims.nyu.edu/~fg1121/index.htm)
+[![Fenglei](https://img.shields.io/badge/Gu-Fenglei-blue.svg)](https://i6.cims.nyu.edu/~fg1121/index.htm)
 [![HitCount](http://hits.dwyl.io/FungluiKoo/Python-for-College-Entrance-Exam.svg)](http://hits.dwyl.io/FungluiKoo/Python-for-College-Entrance-Exam)
 
 If you have any question, please navigate to our [Wiki page](https://github.com/FungluiKoo/Python-for-College-Entrance-Exam/wiki).
-
-Copyright©2017-2019 Funglui Koo. All rights reserved.
-All texts, images, illustrations and other material on this Internet site are subject to copyright held by Funglui Koo unless otherwise stated. The licenses to which this work apply are in the LICENSE.md file.
 
 **Disclaimer Notice**
 The information here is preliminary and is subject to change at any time without notice. The information is only intended to provide general information without obligation, and is not deemed to replace detailed and individual consultation and advice.
